@@ -25,7 +25,6 @@ import com.example.sstuff.data.UserPreferences
 import com.example.sstuff.data.authUser
 import com.example.sstuff.data.getCatalog
 import com.example.sstuff.navigation.NavGraph
-import kotlinx.coroutines.flow.firstOrNull
 import kotlinx.coroutines.launch
 
 @RequiresApi(Build.VERSION_CODES.S)
